@@ -1,0 +1,41 @@
+.blogs .contain {
+    padding: 60px;
+}
+
+.blogs .contain .row .col-12 h1 {
+    font-size: 60px;
+    font-family: fantasy;
+}
+
+.blogs .contain .goBack {
+    color: #3ad1d1;
+    cursor: pointer;
+}
+
+.blogs h1 {
+    font-family: fantasy;
+}
+
+.recentPost {
+    font-family: fantasy;
+}
+
+.adsSection {
+    position: relative;
+}
+
+.adsSection .adsImage {
+    position: relative;
+}
+
+.adsSection .adsText {
+    position: absolute;
+    top: 52px;
+    left: 35px;
+}
+
+.blogText p {
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 2px;
+}
